@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en" class="notranslate" translate="no">
+<head>
+<meta charset="utf-8" />
+<meta name="fragment" content="!" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+
+<link rel="manifest" href="/manifest.webmanifest" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+<meta name="msapplication-TileColor" content="#da532c" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="facebook-domain-verification" content="6rwlsmptpqic8ed86trmrinkn1wxkb" />
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/mjklaailjabbidpmbngdceejclkbikib" />
+
+<title data-react-helmet="true">Task2 ‑ Made with FlexClip — Kapwing</title>
+<link data-react-helmet="true" rel="canonical" href="https://www.kapwing.com/" />
+<meta data-react-helmet="true" name="keywords" content="video editor, meme maker, video resizer, gif editor, video subtitles" /><meta data-react-helmet="true" name="twitter:card" content="summary_large_image" /><meta data-react-helmet="true" name="description" content="Video made on Kapwing" /><meta data-react-helmet="true" property="fb:app_id" content="713985848677391" /><meta data-react-helmet="true" property="og:description" content="Video made on Kapwing" /><meta data-react-helmet="true" property="og:title" content="Task2 ‑ Made with FlexClip" /><meta data-react-helmet="true" property="og:url" content="https://www.kapwing.com/videos/62381d010a946a0a599f34d9" /><meta data-react-helmet="true" property="og:image" content="https://cdn.kapwing.com/image_62381d010a946a0a599f34d9_571882.jpg" /><meta data-react-helmet="true" property="og:image:height" content="721.1267605633803" /><meta data-react-helmet="true" property="og:image:secure_url" content="https://cdn.kapwing.com/image_62381d010a946a0a599f34d9_571882.jpg" /><meta data-react-helmet="true" property="og:image:url" content="https://cdn.kapwing.com/image_62381d010a946a0a599f34d9_571882.jpg" /><meta data-react-helmet="true" property="og:image:width" content="1280" /><meta data-react-helmet="true" property="twitter:image" content="https://cdn.kapwing.com/image_62381d010a946a0a599f34d9_571882.jpg" /><meta data-react-helmet="true" property="og:type" content="video" /><meta data-react-helmet="true" property="og:video" content="https://cdn.kapwing.com/final_62381d010a946a0a599f34d9_508009.mp4" /><meta data-react-helmet="true" property="og:video:height" content="721.1267605633803" /><meta data-react-helmet="true" property="og:video:secure_url" content="https://cdn.kapwing.com/final_62381d010a946a0a599f34d9_508009.mp4" /><meta data-react-helmet="true" property="og:video:type" content="video/mp4" /><meta data-react-helmet="true" property="og:video:width" content="1280" />
+<meta name="application-name" content="Kapwing" />
+<meta name="google" content="notranslate" />
+
+<link data-chunk="main" rel="stylesheet" href="/main.92fe1ee25db7acf5516e.css">
+<script id="redux-script">window.REDUX_DATA = {"config":{"CLOUD_FUNCTIONS_PREFIX":"","FACEBOOK_APP_ID":"713985848677391","GOOGLE_ANALYTICS_CODE":"UA-100629017-1","SENTRY_DSN":"https://a5bf03f4085d4c9eae3716d84c1869c4@sentry.io/267538","SENTRY_ENV":"production","SENTRY_RELEASE":"60e908674c2f595f558c8a60bc3a1db46b78d038","STRIPE_PUBLIC_KEY":"pk_live_2sDMAtDohnudYHgRDvCSQelo"},"templates":[],"currentTemplate":{},"infoForSelectedTemplateLetter":{"letter":"","count":0},"collections":[],"currentCollection":{},"infoForSelectedCollectionLetter":{"letter":"","count":0},"currentVideo":{"_id":"62381d010a946a0a599f34d9","isCreator":true,"isStudio":true,"analytics":{},"projectName":"Task2 ‑ Made with FlexClip","ratio":"852:480","hasCustomOutput":false,"topFontsLoaded":false,"origin":"","studioPaused":true,"overlayMounted":false,"isDragging":false,"trackIsDragging":false,"scenes":[{"id":"e92b7320-fb42-41e9-b9ab-56348af7bf25","layers":[{"gcsShortId":"OmQP6I6ea","id":"932ced6a-e3a8-41fa-9bbb-81dc033ec5d7","name":"Task2 ‑ Made with FlexClip.mp4","size":9892696,"mime":"video/mp4","fileSizeChecked":true,"source":"upload","objectFit":"cover","uploadId":"730e164d-5718-44f0-80bd-615184810c84","uploadLocation":"blank","hasAudio":true,"duration":41.75,"height":480,"type":"video","width":852,"startTime":0,"endTime":41.75,"timelineRow":0,"videoDelay":0,"wasUploadedAnonymously":true,"originalName":"Task2 ‑ Made with FlexClip.mp4","position":{"x":"0%","y":"0%","rotation":0,"width":"100%","height":"100%"},"metadataGathered":true,"volume":1,"url":"https://cdn.kapwing.com/Task2_Made_with_FlexClip-uAV5h7m4m.mp4?GoogleAccessId=kapwing-pubsub%40kapwing-181323.iam.gserviceaccount.com&Expires=1648449256&Signature=F3%2Bp3p3cV02JCrJPOU7h5OaF4PztKzrZ9m2UIJkHz5jCzWViyXnaCd%2BrOyXtl0OykleTzhSuGjq8%2BQvkG9c3q3Iej5o3aFp1Jfh2EzoSMkiRRBoZYlNurjbb6ocqWixIY8Ac9zThsM98GhlyAudbYaXijkaeonMLFYJfNvihiSZVF9cIsU6f9AWYHMMzvS0QbGS760DQ7ObW%2FhEg5usHZ6kAEOVUwXBHmTqISTZIhBOTFV0TItVlOPyP4mZPaxaBrEZKMHiJfHBsRzoxf1vUdyqAeCN4fJ9o35Njicdtkb%2BLriO0Kvfu2%2BM1JuK4jhJM6EQf1V%2FvCSlRYSSGnjtM2w%3D%3D","asset_id":"62381c739349c3085b88d267","uploadConfirmed":1647844463484,"cmlFileId":"62381c739349c3085b88d268","optimization_id":null,"preview":{"url":"https://cdn.kapwing.com/conversions/62381c75479898e9bc99fa83_preview.mp4?GoogleAccessId=kapwing-pubsub%40kapwing-181323.iam.gserviceaccount.com&Expires=1647873289&Signature=T94KldrCiD3%2F0ja5L5elR9mVhrITQtr1%2BWSOVEIkUKTlWUp9JrHkon5nxvFMQ3tLi8Ss5CuHqU0OITMLCdaYKr%2FrAj%2FECs6%2F5izw%2FNNI0QxAHt4TbkZfpfpdkb8RmhBYLozm5gsAlF9fsmzIDLlxulvTCTC92uxXadM25ybJ%2BUfA%2FhTEDKveyi6aIlp8czdZLCY8ie5%2BOFtJyayzQTA7ZxWIm%2BNRVJ2Zf7QlnBxc679GKr7DZEkug8Ngzf4Mlw7fVlDTzNUDRe4Uws%2FyH0q7HlOFKg%2FNsW%2BWLuiMjtrMMAqqv5K%2FrJW6YzoWqwF%2Bo46N064XOzHuLZaZEiAE16fxcA%3D%3D","asset_id":"62381c87479898e9bc99fa84","width":852,"height":480,"duration":41.727,"endTime":41.727,"startTime":0,"mediaLibraryID":"78be9faf-7ce1-491a-8a14-85bcfd37e7e8"},"track_preview":{"url":"https://storage.googleapis.com/kapwing/conversions/62381c75479898e9bc99fa83_track_preview.mp4","asset_id":"62381c88479898e9bc99fa85","mediaLibraryID":"78be9faf-7ce1-491a-8a14-85bcfd37e7e8"}},{"id":"1f201a79-8439-43c8-8c14-9306a2b8952c","type":"text","backgroundColor":"rgba(-255,-255,-255,0)","color":"#000000","fontFamily":"Arial","fontWeight":"normal","globalAlpha":1,"lineHeight":1,"lockAspectRatio":false,"position":{"x":"8.727991514686115%","y":"7.3652551380925395%","width":"80.45442033307334%","height":"29.967426710097723%","rotation":0},"text":"TASK 2 TRIBUTE \nBY PRIYA","textAlign":"center","textShadow":"transparent","baseWidth":438.4162499999999,"baseHeight":92,"fontSize":"46px","isTrimmed":true,"startTime":41.75,"endTime":44.75,"timelineRow":0,"textWithLineBreaks":"TASK 2 TRIBUTE \nBY PRIYA"}],"background":"#ffffff","duration":44.75,"userSelectedDuration":0,"userSetDuration":false,"subtitle":{"backgroundColor":"rgba(0, 0, 0, 0.6)","backgroundOpacity":0.6,"backgroundStyle":"wrap","fixedPosition":0.95,"font":"Arial","fontColor":"#ffffff","fontSize":18,"fontSizeRatio":0.05625,"fontStyle":"normal","fontWeight":"bold","lineHeight":1.2,"lineWidth":0,"textAlign":"center","textShadow":"#000000","textVerticalAlign":"bottom","updateSubtitlePosition":"be4a740a-3588-49b9-bdac-85f74e4749d4"}}],"layerSceneDict":{"932ced6a-e3a8-41fa-9bbb-81dc033ec5d7":"e92b7320-fb42-41e9-b9ab-56348af7bf25","1f201a79-8439-43c8-8c14-9306a2b8952c":"e92b7320-fb42-41e9-b9ab-56348af7bf25"},"localBlobLayerDict":{},"localId":"5a5b3bdb-491a-4627-bfe0-06d327fc5811","deletedLayerLocalBlobDict":{},"deletedLayerDict":{},"selectedLayerId":"","selectedSceneId":"e92b7320-fb42-41e9-b9ab-56348af7bf25","selectedSceneIndex":0,"selectedTimelineRows":[0],"groups":{},"pendingGoogleDriveUploads":[],"timelineGap":null,"clipboardCopyId":null,"clipboard":{"itemType":"empty","item":{}},"snapToGrid":true,"showCanvas":true,"background":"#ffffff","updateCanvasSeeker":false,"isImageVideo":false,"duration":44.75,"toolTip":"","videoType":"mp4","imageType":"png","gifType":"gif","exportFrameTime":-1,"quality":"standard","addedOptimizedLayer":true,"draft":false,"done":true,"createdAt":"2022-03-21T06:36:49.990Z","fullPath":"https://storage.googleapis.com/kapwing/final_62381d010a946a0a599f34d9_508009.mp4","image_url":"https://storage.googleapis.com/kapwing/image_62381d010a946a0a599f34d9_571882.jpg","updateKey":"30aec27f-e904-4a84-ab51-cdd97d26af85","refreshKey":0,"lastSaved":"2022-03-21T06:36:49.990Z","dimensions":{},"canvasDimensions":{"canvasWidth":0,"canvasHeight":0},"name":"","canvasX":116.03750000000002,"canvasY":30,"containerX":325,"containerY":36,"containerWidth":777,"containerHeight":367,"workspaceId":null,"projectId":"62381d01d4aa149cd1159049","boxSelectedIds":[],"canvasPreviewSeekerTimestampId":"63388574-d439-496c-8861-123c7b606728","contextMenuUsed":0,"customFontsFetched":false,"playCanvasPreviewOnMount":false,"usedEyedropper":false,"watermark":true,"layerDuplicated":false,"thisProjectCMLFiles":{"62381c739349c3085b88d268":{"addedTimestamp":1647844463417,"asset_id":"62381c739349c3085b88d267","cmlFileId":"62381c739349c3085b88d268"}},"userSpecificSettings":{},"userSpecificSettingsAnonymous":{"snapInTimeline":true},"isCollaborating":false,"presence":{},"presentUserId":"","historyIndex":-1,"usedUndo":false,"width":544.925,"height":307,"snapLines":{},"isResizing":false,"layersPendingUpload":{},"editorPath":"/studio/editor","lastSeen":"2022-03-21T06:38:27.128Z","parentId":"","privacy":0,"progressText":"o resolution is 852/480\nvideo adjusted w/h = 852 480 w/h ratio = 1.775\nPreprocess Scenes\nProcess Scenes\nStarting Stage preprocessScenes: {'tasks': [{'status': '', 'state': {}}], 'state': 'running', 'status': 'running', 'start_time': 1647844628.7303615}\nFinished Stage preprocessScenes\nStarting Stage createVideo: {'state': 'running', 'status': 'running', 'start_time': 1647844629.774574}\nFinished Stage createVideo\nAbout to create the final video...\nPlease be patient as this may take several minutes, depending on the length and size of your video...\nVideo created on server ... now just need to upload it!\nUploading video/mp4 /tmp/62381d010a946a0a599f34d9/62381d025b9c43a5cec57d86/overlayed-cfd8f0a1-626c-41e7-adf3-fd1bd55d15f7.mp4 to https://storage.googleapis.com/kapwing/final_62381d010a946a0a599f34d9_508009.mp4.\nFinished uploading /tmp/62381d010a946a0a599f34d9/62381d025b9c43a5cec57d86/overlayed-cfd8f0a1-626c-41e7-adf3-fd1bd55d15f7.mp4\nYour video is ready!\nVideo id: 62381d010a946a0a599f34d9\n","sourceVideo":{},"submittedAt":"2022-03-21T06:36:49.990Z","audioStartTime":0,"audioTrimStartTime":0,"audioTrimEndTime":0,"audioIsTrimmed":false,"audioEdit":{"audioLoopTouched":false,"audioVideoMute":false,"muteUsed":false,"audioDuration":0,"audioUploadUsed":false,"isAudioTrimOnly":false,"audioVolume":1,"videoVolume":1,"recordSet":false,"audioIsRecorded":false},"createLocation":"studio-publish","creatorHasLicense":false,"creatorId":null,"gitCommit":"60e908674c2f595f558c8a60bc3a1db46b78d038","build":{"ffmpegCpus":30,"ffmpegThreads":15,"puppeteerThreads":15,"workerIp":"10.10.30.82","retryCount":0,"job_id":"62381d025b9c43a5cec57d86","error":null,"requestingServer":"production","downloadCount":1,"isMultimachine":false,"multimachineAttrs":{},"splicer":"ffmpeg","splicers":{"0":"ffmpeg"},"local_output_path":"/tmp/62381d010a946a0a599f34d9/62381d025b9c43a5cec57d86/overlayed-cfd8f0a1-626c-41e7-adf3-fd1bd55d15f7.mp4","layerDuration":89.5,"layerDurationProcessedPerSecond":0.9774780217343275,"buildDuration":91.562161,"layerCount":2,"outputByteSize":1080018,"outputDuration":44.75,"OD/BD":0.48873901086716376,"outputExt":"mp4","outputMime":"video/mp4","sceneCount":1,"success":true,"hasRemoveBg":false,"canaryCluster":false},"creatorEmail":null,"heartbeat":1647844705,"useragent":{"isAuthoritative":true,"isChrome":true,"isDesktop":true,"isWindows":true,"browser":true,"version":true,"os":true,"platform":true,"geoIp":true,"source":true},"publishCount":1,"retry":0,"lastUpdatedByPOST":"2022-03-21T06:36:49.990Z","startedAt":"2022-03-21T06:36:50.237Z","progressDict":"{\"stageNum\":5,\"numStages\":5,\"stagePercentage\":3,\"stageName\":\"Upload\"}","blob_name":"final_62381d010a946a0a599f34d9_508009.mp4","bucket_name":"kapwing","finishedAt":"2022-03-21T06:38:21.799Z","gsPath":"gs://kapwing/final_62381d010a946a0a599f34d9_508009.mp4","job_id":"62381d025b9c43a5cec57d86","thumbnail_url":"https://storage.googleapis.com/kapwing/image_62381d010a946a0a599f34d9_442797.jpeg","video_url":null},"projectName":"Task2 ‑ Made with FlexClip"}</script>
+
+
+<script src="https://script.tapfiliate.com/tapfiliate.js" type="text/javascript" async></script>
+<script type="text/javascript" async>
+      (function (t, a, p) {
+        t.TapfiliateObject = a;
+        t[a] =
+          t[a] ||
+          function () {
+            (t[a].q = t[a].q || []).push(arguments);
+          };
+      })(window, "Tapfiliate");
+
+      Tapfiliate("create", "28114-52052d", { integration: "stripe" });
+      Tapfiliate("detect");
+    </script>
+
+<script defer src="https://r.wdfl.co/rw.js" data-rewardful="7fef72"></script>
+
+<script>
+      const global = globalThis;
+    </script>
+
+<script defer>
+      /* delaying execution helps page speed score*/
+      setTimeout(function () {
+        !(function (f, b, e, v, n, t, s) {
+          if (f.fbq) return;
+          n = f.fbq = function () {
+            n.callMethod
+              ? n.callMethod.apply(n, arguments)
+              : n.queue.push(arguments);
+          };
+          if (!f._fbq) f._fbq = n;
+          n.push = n;
+          n.loaded = !0;
+          n.version = "2.0";
+          n.queue = [];
+          t = b.createElement(e);
+          t.async = !0;
+          t.src = v;
+          s = b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t, s);
+        })(
+          window,
+          document,
+          "script",
+          "https://connect.facebook.net/en_US/fbevents.js"
+        );
+        fbq("init", "1848692598512897");
+        fbq("track", "PageView");
+      }, 3000);
+    </script>
+<noscript><img
+        height="1"
+        width="1"
+        style="display: none"
+        src="https://www.facebook.com/tr?id=1848692598512897&ev=PageView&noscript=1"
+    /></noscript>
+
+
+<script async>
+      function addTrialToken(tokenContents) {
+        const tokenElement = document.createElement("meta");
+        tokenElement.httpEquiv = "origin-trial";
+        tokenElement.content = tokenContents;
+        document.head.appendChild(tokenElement);
+      }
+      if (window.location.hostname === "www.kapwing-dev.com") {
+        addTrialToken(
+          "Av2qlPfgkewtjSCKR10KwYeqTEFi33FCB6d1SYhIgjTvgMAU4d7U9nkMNZV3+jAl2lU7cEiuYukr2ZKd1X0hAgIAAAB5eyJvcmlnaW4iOiJodHRwczovL2thcHdpbmctZGV2LmNvbTo0NDMiLCJmZWF0dXJlIjoiVW5yZXN0cmljdGVkU2hhcmVkQXJyYXlCdWZmZXIiLCJleHBpcnkiOjE2Mzk1MjYzOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="
+        );
+      }
+      if (window.location.hostname === "www.kapwing.com") {
+        addTrialToken(
+          "AuL8/YlpCMluQLO3jHmGwAsMQiBL2JJPhRukhNzwRi2OJB6ic/XN7nINm2I3g1LoPXbsyLwggfZWA+nAt4aLHwYAAAB1eyJvcmlnaW4iOiJodHRwczovL2thcHdpbmcuY29tOjQ0MyIsImZlYXR1cmUiOiJVbnJlc3RyaWN0ZWRTaGFyZWRBcnJheUJ1ZmZlciIsImV4cGlyeSI6MTYzOTUyNjM5OSwiaXNTdWJkb21haW4iOnRydWV9"
+        );
+      }
+    </script>
+
+<script async src="/ffmpeg-core.js"></script>
+<script async src="/bodypix-worker.js?vers=1.0"></script>
+<script async src="https://accounts.google.com/gsi/client"></script>
+<script async src="https://apis.google.com/js/api.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" defer async></script>
+
+<script type="text/javascript">
+      (function (e, t) {
+        var n = e.amplitude || { _q: [], _iq: {} };
+        var r = t.createElement("script");
+        r.type = "text/javascript";
+        r.integrity =
+          "sha384-tzcaaCH5+KXD4sGaDozev6oElQhsVfbJvdi3//c2YvbY02LrNlbpGdt3Wq4rWonS";
+        r.crossOrigin = "anonymous";
+        r.async = false;
+        r.src = "https://cdn.amplitude.com/libs/amplitude-8.5.0-min.gz.js";
+        r.onload = function () {
+          if (!e.amplitude.runQueuedFunctions) {
+            console.log("[Amplitude] Error: could not load SDK");
+          }
+        };
+        var i = t.getElementsByTagName("script")[0];
+        i.parentNode.insertBefore(r, i);
+        function s(e, t) {
+          e.prototype[t] = function () {
+            this._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
+            return this;
+          };
+        }
+        var o = function () {
+          this._q = [];
+          return this;
+        };
+        var a = [
+          "add",
+          "append",
+          "clearAll",
+          "prepend",
+          "set",
+          "setOnce",
+          "unset",
+          "preInsert",
+          "postInsert",
+          "remove",
+        ];
+        for (var c = 0; c < a.length; c++) {
+          s(o, a[c]);
+        }
+        n.Identify = o;
+        var u = function () {
+          this._q = [];
+          return this;
+        };
+        var l = [
+          "setProductId",
+          "setQuantity",
+          "setPrice",
+          "setRevenueType",
+          "setEventProperties",
+        ];
+        for (var p = 0; p < l.length; p++) {
+          s(u, l[p]);
+        }
+        n.Revenue = u;
+        var d = [
+          "init",
+          "logEvent",
+          "logRevenue",
+          "setUserId",
+          "setUserProperties",
+          "setOptOut",
+          "setVersionName",
+          "setDomain",
+          "setDeviceId",
+          "enableTracking",
+          "setGlobalUserProperties",
+          "identify",
+          "clearUserProperties",
+          "setGroup",
+          "logRevenueV2",
+          "regenerateDeviceId",
+          "groupIdentify",
+          "onInit",
+          "logEventWithTimestamp",
+          "logEventWithGroups",
+          "setSessionId",
+          "resetSessionId",
+        ];
+        function v(e) {
+          function t(t) {
+            e[t] = function () {
+              e._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
+            };
+          }
+          for (var n = 0; n < d.length; n++) {
+            t(d[n]);
+          }
+        }
+        v(n);
+        n.getInstance = function (e) {
+          e = (!e || e.length === 0 ? "$default_instance" : e).toLowerCase();
+          if (!Object.prototype.hasOwnProperty.call(n._iq, e)) {
+            n._iq[e] = { _q: [] };
+            v(n._iq[e]);
+          }
+          return n._iq[e];
+        };
+        e.amplitude = n;
+      })(window, document);
+
+      try {
+        var domain = document.domain || "";
+        var isDev =
+          domain.endsWith(".kapwing-dev.com") ||
+          (domain.startsWith("kapwing-dev") &&
+            domain.endsWith(".herokuapp.com")) ||
+          (domain.startsWith("localhost") &&
+            ["3000", "5000"].includes(window.location.port));
+
+        function handleOnExitPage() {
+          if (window.amplitudeOnExit) {
+            amplitudeOnExit();
+          }
+        }
+
+        var options = {
+          includeUtm: true,
+          includeReferrer: true,
+          onExitPage: handleOnExitPage,
+        };
+        if (isDev) {
+          amplitude
+            .getInstance()
+            .init("461b8b8947f81e4f070013ded04799df", null, options);
+        } else {
+          amplitude
+            .getInstance()
+            .init("e3eca64f2da6246ee6a22cd63f455a07", null, options);
+        }
+      } catch {
+        /* skip amplitude initialization */
+      }
+    </script>
+
+
+
+
+<meta http-equiv="origin-trial" content="Aqo/PMO5ZALJA5+mg78T9E2ZUE5KqPIcRlbVyH6ZNNGcSKFDSe2Y8eG+WMyR9fl6kDsUQaMS0oIuxbYrq/033wkAAABoeyJvcmlnaW4iOiJodHRwczovL3d3dy5rYXB3aW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiRGlnaXRhbEdvb2RzIiwiZXhwaXJ5IjoxNjQzNTg3MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZX0=" />
+
+<meta http-equiv="origin-trial" content="Aq8yw/k4bvT5zvjeUbfy2ZzBwES6jMYXEWbNUDr4oc8XZGXtho/q+DzpjssUsQg9YowBATUEc245+MdYljFougYAAABqeyJvcmlnaW4iOiJodHRwczovL3d3dy5rYXB3aW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiRGlnaXRhbEdvb2RzVjIiLCJleHBpcnkiOjE2NTMyNjM5OTksImlzU3ViZG9tYWluIjp0cnVlfQ==" />
+<script type="module" crossorigin src="/assets/index.539ee9ee.js"></script>
+<link rel="modulepreload" href="/assets/vendor.63d2ead3.js">
+<link rel="stylesheet" href="/assets/index.91bb88a2.css">
+</head>
+<body>
+<main id="root">
+<div class="app-container"><div><div class="OBeN7yot5D5LZ1v_EcWNK"><div class="MU6KgLv2X1S4PZ_fEJOm1"><div class="_3Qd-Bztp59EZSjQmuXkgmS"><img src="/082b2e334c43e7efab4b03ffd25d7fdc.png" class="aabs4vsKQvdE9WDvkbHaB" alt="Kapwing Logo" data-cy="studio-header-logo" /></div><a class="_1QzfJct0ousQepezrA3kfl" href="/">KAPWING</a></div><div class="_3wJFCyfNMcYNRQ2UaUIxPw"><div class="_2JLTNM9Y2ZDuBOXIjUvCBY" data-cy="displayed-project-name">Task2 ‑ Made with FlexClip</div></div><div><div class="_CXlcA05_eRW0RN8uPwub _2k0DqPq5s69AXayemI24yq" data-cy="signin-nav-button">Sign In</div></div></div><div class="_3jNElaR69ARFm8h0NkjYj4"><div class="oWe3nTKW3JpL4mx2F1At7"><div class="_3JLQchg7faKgE4b9BKIySg"><div class="_2DHtXX7qjLfQnsu6KUBfpn" data-cy="loading-container" data-testid="loading-container"><div class="oG_k-8EI9B2OcGTqHA0Ah"></div><div><div class="_2D5WIQpcOw-I2vYMb1ffJK" style="color:#eee;font-weight:600">Getting url...</div></div></div></div><div class="_24QZCnwKzUyTSAI9zbiJIR"><div class="_3u7iUFxpyhp4Sl4YVHNIMU"><div><div class="_1MIu143tpuHEQQgN8_yCHv "><div class="_3SJt9W85nVAiFvVJj5yCau"><div class="_2YuO7G1nCnwi-th1fkdnow"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M12 2c-5.33 4.55-8 8.48-8 11.8 0 4.98 3.8 8.2 8 8.2s8-3.22 8-8.2c0-3.32-2.67-7.25-8-11.8zm0 18c-3.35 0-6-2.57-6-6.2 0-2.34 1.95-5.44 6-9.14 4.05 3.7 6 6.79 6 9.14 0 3.63-2.65 6.2-6 6.2zm-4.17-6c.37 0 .67.26.74.62.41 2.22 2.28 2.98 3.64 2.87.43-.02.79.32.79.75 0 .4-.32.73-.72.75-2.13.13-4.62-1.09-5.19-4.12a.75.75 0 01.74-.87z"></path></svg></div><div>Want to remove the watermark for free? Sign in to get<!-- --> <!-- -->3<!-- --> watermark-free exports.</div></div><div class="_3XfDw_414T-ZezaXrYD3rM " data-cy="sign-in-to-remove-watermark"><strong>Sign in</strong> to remove the watermark</div></div></div><div class="_30cNev0tf4uSD1cgeld8mq"><div class="_3rHo_HWXkQV3cAdPH4UCdd"><div>Share this</div><div><div class="_2i6dSK9pQ2RgTRwDu1bsRN">Copy link</div></div></div><div class="_2phuT0KvKloHHmK2927cJB">https://www.kapwing.com/videos/62381d010a946a0a599f34d9</div><div class="_1qJEM43gPeRcxdGa0cH1mW"><div class="_1eKnr8EVLXFi0dL9e2KnPC"><button aria-label="twitter" class="react-share__ShareButton" style="background-color:transparent;border:none;padding:0;font:inherit;color:inherit;cursor:pointer"><svg stroke="currentColor" fill="currentColor" stroke-width="0" role="img" viewBox="0 0 24 24" class="_1VmA00sdZJtIp5SqKfwH2H" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><title></title><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"></path></svg></button><button data-cy="facebook-share-button" aria-label="facebook" class="react-share__ShareButton" style="background-color:transparent;border:none;padding:0;font:inherit;color:inherit;cursor:pointer"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 320 512" class="_1VmA00sdZJtIp5SqKfwH2H" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg></button></div><div class="_2hL5aZ35HYWzNHxu3hDxL3"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20" class="Bh7TjrvTm9at7MLbJSls0" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.316 3.051a1 1 0 01.633 1.265l-4 12a1 1 0 11-1.898-.632l4-12a1 1 0 011.265-.633zM5.707 6.293a1 1 0 010 1.414L3.414 10l2.293 2.293a1 1 0 11-1.414 1.414l-3-3a1 1 0 010-1.414l3-3a1 1 0 011.414 0zm8.586 0a1 1 0 011.414 0l3 3a1 1 0 010 1.414l-3 3a1 1 0 11-1.414-1.414L16.586 10l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg> Embed</div></div></div><div><button type="button" class="_2c3i0LBGxyCyjEqcd7T0Rx" data-cy="edit-video-button"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" class="_10_F5Ngo0dS1LS07dy728d" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g><path fill="none" d="M0 0h24v24H0z"></path><path d="M6.414 16L16.556 5.858l-1.414-1.414L5 14.586V16h1.414zm.829 2H3v-4.243L14.435 2.322a1 1 0 0 1 1.414 0l2.829 2.829a1 1 0 0 1 0 1.414L7.243 18zM3 20h18v2H3v-2z"></path></g></svg> Edit a copy</button></div><a download="Task2_‑_Made_with_FlexClip.mp4" href="https://cdn.kapwing.com/final_62381d010a946a0a599f34d9_508009.mp4" data-cy="download-final-video-button" class=""><div class="_2c3i0LBGxyCyjEqcd7T0Rx"><svg stroke="currentColor" fill="none" stroke-width="0" viewBox="0 0 24 24" class="_10_F5Ngo0dS1LS07dy728d" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg><span>Download file</span></div></a><div></div><a href="/studio/editor"><div class="_2c3i0LBGxyCyjEqcd7T0Rx" data-cy="start-new-project"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" class="_10_F5Ngo0dS1LS07dy728d" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.5 1.1l3.4 3.5.1.4v2h-1V6H8V2H3v11h4v1H2.5l-.5-.5v-12l.5-.5h6.7l.3.1zM9 2v3h2.9L9 2zm4 14h-1v-3H9v-1h3V9h1v3h3v1h-3v3z"></path></svg>Start a new project</div></a><a href="/"><div class="_2c3i0LBGxyCyjEqcd7T0Rx"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" class="_10_F5Ngo0dS1LS07dy728d" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M32 136v144h357.7l-84.4 86.2 33.2 33.8L480 256 338.5 112l-33.2 33.8 84.4 86.2H79.2v-96H32z"></path></svg>Return to Kapwing</div></a><div class="_3TSVRDvtoM_9KnrtZxepjv">Tag <strong>#kapwing</strong> so we can find you on social media! Any issues?<!-- --> <button type="button" class="pMeWNexz0GcjJT6WxYpcw">Report a problem</button> <!-- -->and let us know.</div></div></div></div></div><div class="footer-div"><div class="footer-container"><div class="footer-company"><div class="footer-company-header"><a href="/">KAPWING</a></div><a href="https://twitter.com/KapwingApp" target="_Blank" rel="noopener noreferrer" class="footer-follow-link" title="Twitter"><svg viewBox="0 0 64 64" width="32" height="32"><circle cx="32" cy="32" r="31" fill="#00aced"></circle><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" fill="white"></path></svg></a><a href="https://www.youtube.com/channel/UCR5GrKMeaZJxPKVMdEgKIKA?sub_confirmation=1" target="_Blank" rel="noopener noreferrer" class="footer-follow-link" title="Youtube"><div class="footer-youtube-icon-container"><svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 576 512" class="footer-youtube-icon" style="vertical-align:middle" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg></div></a><a href="https://www.instagram.com/KapwingApp/" target="_Blank" rel="noopener noreferrer" class="footer-follow-link" title="Instagram"><div class="footer-instagram-icon-container"><img src="https://i.imgur.com/tWM4xR4.jpg" alt="Instagram logo" class="footer-instagram-image" width="32px" height="32px" loading="lazy" /></div></a><a href="https://discord.gg/kapwing" target="_Blank" rel="noopener noreferrer" class="footer-follow-link" title="Discord"><div class="footer-instagram-icon-container"><img src="https://i.imgur.com/3IYHdOU.jpg" alt="Discord logo" class="footer-discord-image" width="32px" height="32px" loading="lazy" /></div></a><a href="https://www.facebook.com/KapwingVideos" target="_Blank" rel="noopener noreferrer" class="footer-follow-link" title="Facebook"><svg viewBox="0 0 64 64" width="32" height="32"><circle cx="32" cy="32" r="31" fill="#3b5998"></circle><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" fill="white"></path></svg></a></div><div class="footer-link-column"><a class="footer-link-column-header" href="/tools">Tools</a><div class="footer-link-column-links-container"><a href="https://www.kapwing.com/video-editor" class="footer-link-column-link">Video Editor</a><a class="footer-link-column-link" href="/meme-maker">Meme Generator</a><a class="footer-link-column-link" href="/subtitles">Add Subtitles</a><a class="footer-link-column-link" href="/tools/convert-video">Convert Video</a><a class="footer-link-column-link" href="/tools/trim-video">Video Trimmer</a><a class="footer-link-column-link" href="/tools/record-screen">Screen Recorder</a><a class="footer-link-column-link" href="/tools/smart-cut">Smart Cut</a><a class="footer-link-column-link footer-link-column-link-last" href="/tools">View all tools</a></div></div><div class="footer-link-column"><a class="footer-link-column-header" href="/templates">Templates</a><div class="footer-link-column-links-container"><a class="footer-link-column-link" href="/templates">Video Templates</a><a class="footer-link-column-link" href="/meme-templates">Meme Templates</a><a class="footer-link-column-link" href="/templates/collage">Collage Templates</a><a class="footer-link-column-link" href="/templates/instagram">Instagram Video</a><a class="footer-link-column-link" href="/templates/popular">Popular Templates</a><a class="footer-link-column-link footer-link-column-link-last" href="/templates">View All</a></div></div><div class="footer-link-column"><div class="footer-link-column-header">Learn</div><div class="footer-link-column-links-container"><a href="https://www.kapwing.com/resources" target="_self" class="footer-link-column-link">Resources</a><a href="https://www.kapwing.com/help" target="_blank" rel="noreferrer noopener" class="footer-link-column-link">Help Center</a><a href="https://www.kapwing.com/blog" target="_self" class="footer-link-column-link">Blog</a><a class="footer-link-column-link" href="/explore">Explore</a><a class="footer-link-column-link" href="/about">About</a><a class="footer-link-column-link" href="/contact-us">Contact Us</a><div class="footer-link-column-link">Sign in</div></div></div><div class="footer-link-column"><div class="footer-link-column-header">Company</div><div class="footer-link-column-links-container"><a class="footer-link-column-link" href="/pricing">Pricing</a><a class="footer-link-column-link" href="/careers">Careers</a><a class="footer-link-column-link" href="/partnerships">Partnerships</a><a class="footer-link-column-link" href="/affiliates">Affiliates</a><a class="footer-link-column-link" href="/plugins">Plugins</a><a class="footer-link-column-link" href="https://www.kapwing.com/help/tag/release-notes/">Release Notes</a><a class="footer-link-column-link" href="/creators-fund">Creators Fund</a><a class="footer-link-column-link" href="/policies/refund">Refund Policy</a><a class="footer-link-column-link" href="/policies/privacy">Privacy Policy</a><a class="footer-link-column-link" href="/policies/terms-of-service">Terms of Service</a></div></div><div class="_1hC8auNuA7J5gNlc7cEDYD">© <!-- -->2022<!-- --> Kapwing. Release <!-- -->v22.5.23<!-- -->—<!-- -->local<!-- -->.<br />Made with love in San Francisco, California.</div></div></div></div></div>
+</main>
+
+
+
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"6ef4cd5e6a5c84ad","token":"c79feee88a4e499989f775e60070d4b1","version":"2021.12.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
